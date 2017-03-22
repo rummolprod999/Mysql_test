@@ -1,0 +1,9 @@
+/home/alex/RiderProjects/Mysql_test/Mysql_test/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alex/RiderProjects/Mysql_test/Mysql_test/bin/Release/Mysql_test.exe.config
+/home/alex/RiderProjects/Mysql_test/Mysql_test/bin/Release/Mysql_test.exe.mdb
+/home/alex/RiderProjects/Mysql_test/Mysql_test/bin/Release/Mysql_test.exe
+/home/alex/RiderProjects/Mysql_test/Mysql_test/obj/Release/Mysql_test.exe
+/home/alex/RiderProjects/Mysql_test/Mysql_test/obj/Release/Mysql_test.exe.mdb
+/home/alex/RiderProjects/Mysql_test/Mysql_test/bin/Release/MySql.Data.dll
+/home/alex/RiderProjects/Mysql_test/Mysql_test/obj/Release/Mysql_test.bin.Release.MySql.Data.dll
+/home/alex/RiderProjects/Mysql_test/Mysql_test/bin/Release/bin/Release/MySql.Data.dll
