@@ -50,9 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.config" />
-    <EmbeddedResource Include="bin\Release\MySql.Data.dll">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Release\MySql.Data.dll" />
     <Content Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
